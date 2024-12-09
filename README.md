@@ -4,7 +4,7 @@ Este repositório contém um script e um arquivo de resultados utilizados para c
 
 ## Estrutura do Repositório
 
-- `calculo_similaridade.py`: Script Python utilizado para realizar o cálculo de similaridade.
+- `Plano Brasil Sem Fome.py`: Script Python utilizado para realizar o cálculo de similaridade.
 - `saída_correspondencias.csv`: Resultado gerado pelo script, contendo as similaridades calculadas entre as políticas e as ações.
 
 ## Requisitos para Execução
